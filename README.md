@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently learning java
+- 🔭 I’m currently learning java and web development
 - 💬 Ask me about java
 - 📫 How to reach me: manangupta8877@gmail.com
-- ⚡ Fun fact: 😄
+- ⚡ New projects coming soon....
 
