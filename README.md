@@ -1,28 +1,20 @@
-### Hi there 👋
-## My name is Manan Gupta.
+<h1 align="center">Hi 👋, I'm Manan Gupta</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
+- 🔭 I’m currently working on **MERN E-COM website**
 
+- 🌱 I’m currently learning **MERN STACK**
 
-- 🔭 Doing Computer Science Engineering at Chitkara University and Full Stack.
-- 💬 Ask me about java
-- 📫 How to reach me: manangupta8877@gmail.com
+- 💬 Ask me about **FULL STACK,JAVA**
 
-- E-COMMERCE (MERN STACK)
+- 📫 How to reach me **manangupta8877@gmail.com**
 
-              A fully working E-COMMERCE website with different client and admin login and different options for both. This project is having all functional things like for public users :search,filter,review,cart,product track etc.
-for admins: Stock change,product status update and all the features that is req. by a admin for handling e-com.
+- ⚡ Fun fact **i love working on projects**
 
-Tech used:Node,  React,  Redux, Express, MongoDB , Html, CSS, JavaScript
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manan-gupta27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manan-gupta27" height="30" width="40" /></a>
+</p>
 
--Covid Case Tracker
-    
-Covid Case Tracker helps to get information about the live stats of covid cases around the world using an api it gets the data and show the data in a table format area wise.
-
-Tech used: HTML,CSS,REACT,JAVASCRIPT,BOOTSTRAP
-
--MI CLONE WEBSITE
-    
-a fully dynamic mi clone website same as the original website made on react framework and data is being taken from a json file.
-
-Tech stack: HTML CSS REACT JAVASCRIPT BOOTSTRAP 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
