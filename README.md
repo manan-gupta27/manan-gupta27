@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on **MERN E-COM website**
 
+- MG MART WEBSITE -: https://mg-mart.herokuapp.com/
+
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **FULL STACK,JAVA**
 
 - 📫 How to reach me **manangupta8877@gmail.com**
+
 
 - ⚡ Fun fact **i love working on projects**
 
